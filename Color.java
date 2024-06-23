@@ -1,6 +1,5 @@
 /*
  *	Color class
- *
  *	Name: Yijun Zhu
  *	Email: yzhu435@wisc.edu
  *	CS Account Username: yzhu
