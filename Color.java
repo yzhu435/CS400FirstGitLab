@@ -1,5 +1,8 @@
 /*
  *	Color class
+ *	Name: Yijun Zhu
+ *	Email: yzhu435@wisc.edu
+ *	CS Account Username: yzhu
  */
 public class Color{
 	private String color;
