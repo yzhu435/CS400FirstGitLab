@@ -1,6 +1,5 @@
 /*
- * Test the use of the Color method
- *     
+ * Test the use of the Color method 
  *      Name: Yijun Zhu
  *      Email: yzhu435@wisc.edu
  *      CS Account Username: yzhu
